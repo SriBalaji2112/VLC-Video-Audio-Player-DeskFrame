@@ -10,6 +10,7 @@ VLC Media Player is one of the most popular media players globally, supporting a
 
 In this project, we’ve taken the classic VLC Media Player and given it a fresh update with the DeskFrame tool, allowing for enhanced user interfaces and performance. Whether you’re watching movies, streaming music, or editing media files, this VLC Media Player is designed to offer a seamless, powerful experience.
 
+<img src="img/vlc.jpg">
 ---
 
 ## 🔧 About DeskFrame
